@@ -1,0 +1,19 @@
+{
+  "name": "warhammer-foundry-monorepo",
+  "version": "1.0.0",
+  "description": "Monorepo for Warhammer Foundry VTT modules",
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build:all": "npm run build --workspaces --if-present",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@league-of-foundry-developers/foundry-vtt-types": "^13.346.0-beta.20250812191140"
+  }
+}

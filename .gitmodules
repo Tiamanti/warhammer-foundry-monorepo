@@ -1,0 +1,12 @@
+[submodule "packages/warhammer-library"]
+	path = packages/warhammer-library
+	url = https://github.com/Tiamanti/WarhammerLibrary-FVTT
+[submodule "packages/wfrp4e"]
+	path = packages/wfrp4e
+	url = https://github.com/Tiamanti/WFRP4e-FoundryVTT
+[submodule "packages/impmal"]
+	path = packages/impmal
+	url = https://github.com/Tiamanti/ImpMal-FoundryVTT
+[submodule "packages/oldworld"]
+	path = packages/oldworld
+	url = https://github.com/Tiamanti/OldWorld-FoundryVTT
