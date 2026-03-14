@@ -8,6 +8,10 @@
   ],
   "scripts": {
     "build:all": "npm run build --workspaces --if-present",
+    "build:impmal": "npm run build --workspace=packages/impmal",
+    "build:oldworld": "npm run build --workspace=packages/oldworld",
+    "build:warhammer-library": "npm run build --workspace=packages/warhammer-library",
+    "build:wfrp4e": "npm run build --workspace=packages/wfrp4e",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
