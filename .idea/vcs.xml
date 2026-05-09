@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CommitMessageInspectionProfile">
+    <profile version="1.0">
+      <inspection_tool class="CommitFormat" enabled="true" level="WARNING" enabled_by_default="true" />
+      <inspection_tool class="CommitNamingConvention" enabled="true" level="WARNING" enabled_by_default="true" />
+    </profile>
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/impmal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/oldworld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/warhammer-library" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/wfrp4e" vcs="Git" />
+  </component>
+</project>

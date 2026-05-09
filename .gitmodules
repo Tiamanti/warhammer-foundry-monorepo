@@ -10,3 +10,12 @@
 [submodule "packages/oldworld"]
 	path = packages/oldworld
 	url = https://github.com/Tiamanti/OldWorld-FoundryVTT
+[submodule "packages/token-action-hud"]
+	path = packages/token-action-hud
+	url = https://github.com/Drental/fvtt-tokenactionhud.git
+[submodule "packages/token-action-hud-wfrp4e"]
+	path = packages/token-action-hud-wfrp4e
+	url = https://github.com/Foundry-Workshop/token-action-hud-wfrp4e.git
+[submodule "packages/token-action-hud-impmal"]
+	path = packages/token-action-hud-impmal
+	url = git@github.com:Tiamanti/Token-Action-HUD-Imperium-Maledictum.git

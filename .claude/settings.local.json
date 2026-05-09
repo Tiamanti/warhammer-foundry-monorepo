@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\tiama\\\\AppData\\\\Local\\\\FoundryVTT\\\\Data\\\\modules\\\\token-action-hud-core\" -Directory)",
+      "Bash(Select-Object Name)",
+      "Bash(Get-ChildItem *)"
+    ]
+  }
+}
