@@ -12,7 +12,7 @@
 	url = https://github.com/Tiamanti/OldWorld-FoundryVTT
 [submodule "packages/token-action-hud"]
 	path = packages/token-action-hud
-	url = https://github.com/Drental/fvtt-tokenactionhud.git
+	url = https://github.com/Larkinabout/fvtt-token-action-hud-core.git
 [submodule "packages/token-action-hud-wfrp4e"]
 	path = packages/token-action-hud-wfrp4e
 	url = https://github.com/Foundry-Workshop/token-action-hud-wfrp4e.git

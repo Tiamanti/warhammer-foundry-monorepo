@@ -10,6 +10,9 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/packages/impmal" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/packages/oldworld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/token-action-hud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/token-action-hud-impmal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/token-action-hud-wfrp4e" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/packages/warhammer-library" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/packages/wfrp4e" vcs="Git" />
   </component>
